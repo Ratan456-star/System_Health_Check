@@ -1,5 +1,5 @@
 
-# 🩺 Menu-Based Health Check System
+# 🩺 Health Check System
 
 A bash-based, menu-driven health check utility for Linux systems that performs real-time checks and sends a detailed system report to **ratan.pandey0309@gmail.com** using Gmail SMTP via Postfix.
 
