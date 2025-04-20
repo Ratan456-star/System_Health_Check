@@ -154,4 +154,5 @@ Licensed under the [MIT License](LICENSE)
 ---
 
 
-![Screenshot 2025-04-20 122836](https://github.com/user-attachments/assets/8540cc42-a2e7-49c7-96da-197c5f95cde8)
+![image](https://github.com/user-attachments/assets/b3b5d78a-e9b5-416c-96d3-bc79c9bf6dbf)
+
